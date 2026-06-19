@@ -4,6 +4,18 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Cybersecurity+%26+SOC+Enthusiast;Python+%7C+Linux+%7C+SIEM+%7C+OWASP+Top+10;Ex-Intern+%40+Tamil+Nadu+Cyber+Wing;Building+secure%2C+well-monitored+systems" alt="Typing SVG" />
 
+<br/>
+
+<img src="https://img.shields.io/badge/Status-Open%20to%20SOC%20%26%20Security%20Roles-70A5FD?style=for-the-badge&logo=shieldcheck&logoColor=white"/>
+<img src="https://img.shields.io/badge/Based%20in-Chennai%2C%20India-BF91F3?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://komarev.com/ghpvc/?username=alanas15&style=for-the-badge&color=38BDAE&label=PROFILE+VIEWS"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6,100:14&height=2&section=header" width="100%"/>
 </div>
 
 ### 👋 About Me
@@ -80,34 +92,28 @@ me.say_hi()
 
 ---
 
-### 📊 GitHub Stats
+### 🛡️ Security Domains
 
 <div align="center">
-<a href="https://github.com/alanas15">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=alanas15&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanas15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
-</a>
-</div>
 
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=alanas15&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
-</div>
+| 🔍 Recon & Vuln Assessment | 🚨 Threat Detection | 🧯 Incident Response | 📊 SOC & Log Analysis | 🐳 DevSecOps |
+|:---:|:---:|:---:|:---:|:---:|
+| Nmap · Burp Suite | SIEM · OWASP Top 10 | Event Tracking | Risk Assessment | CI/CD · Docker |
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alanas15&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
 </div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=alanas15&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
-</div>
-
-> **Note:** Stats widgets above render live from GitHub's activity for `alanas15` — they aren't pre-filled numbers, so they'll naturally fill in as the account is used.
 
 ---
 
-### 💼 Experience
+### 💼 Experience Timeline
 
-<details>
+```
+2025 Sept ──●── Tamil Nadu Cyber Wing      Cybersecurity Intern
+2025       ──●── Skandax Nexus             Cybersecurity & DevOps Intern
+2026 (exp) ──●── B.Tech Graduation         SRM IST Ramapuram
+```
+
+<br/>
+
 <summary><b>Cyber Security Intern — Tamil Nadu Cyber Wing</b> (Chennai) | Sept 2025</summary>
 <br/>
 
@@ -187,12 +193,18 @@ me.say_hi()
 
 ### 🌐 Connect
 
-<p align="center">
-📧 muhamedalanas@gmail.com &nbsp;|&nbsp; 📱 +91 9944119720 &nbsp;|&nbsp; 📍 Chennai, Tamil Nadu
-</p>
+<div align="center">
 
-<p align="center">
+<img src="https://img.shields.io/badge/Email-muhamedalanas%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Phone-%2B91%209944119720-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Location-Chennai%2C%20India-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+
+<br/><br/>
+
 <i>🗣️ Tamil (Native) · English (Professional) · Hindi (Limited Working)</i>
-</p>
+
+</div>
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
